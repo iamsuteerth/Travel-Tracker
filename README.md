@@ -2,6 +2,7 @@
 ```
 Favourite Places App
 ```
+### Kindly replace "YOUR_API_KEY" yours : ) 
 A simple app made while following the course. Demonstrating familiarity with these functionalities.
 
 ## Features Showcased
